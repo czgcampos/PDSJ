@@ -1,0 +1,3 @@
+--> Cursor vs Apontador
+Iterator é um cursor porque não aponta para nada, está sempre entre duas coisas, o próximo e o anterior.
+Um apontador aponta mesmo para uma coisa.
